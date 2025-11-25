@@ -1,0 +1,2 @@
+# ProfSatAISplitter
+COPOAISPLITTER
